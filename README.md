@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="C:\Users\User\Desktop\dog_meme.jpeg">
+    <img width="200" src="https://i.pinimg.com/736x/a4/90/a1/a490a135da61d3134d44606dd17d02c6.jpg">
 </p>
 
 <h1> Hi 👋,I am ANNA ZAMBRANO >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
